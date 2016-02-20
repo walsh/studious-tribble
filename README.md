@@ -1,1 +1,7 @@
 # studious-tribble
+
+## Background 
+
+## Setup 
+
+
